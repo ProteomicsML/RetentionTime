@@ -1,16 +1,17 @@
 # Sharma_HeLa_RT
 
-data type: Peptide retention time
-title: Kirill Pevzner "Proteomics Retention Time Prediction" dataset from Sharma et al. HeLa data from kaggle
-tag: Sharma_HeLa_RT
-data publication: <unknown>
-ML publication: <unknown>
-source dataset identifier: <unknown>
-species: Homo sapiens (human)
-size: 14361 peptides
-format: TSV
-columns: peptide sequence, uncalibrated elution time
-chromatography_column_type: <unknown>
+## attributes:
+- data type: Peptide retention time
+- title: Kirill Pevzner "Proteomics Retention Time Prediction" dataset from Sharma et al. HeLa data from kaggle
+- tag: Sharma_HeLa_RT
+- data publication: <unknown>
+- ML publication: <unknown>
+- source dataset identifier: <unknown>
+- species: Homo sapiens (human)
+- size: 14361 peptides
+- format: TSV
+- columns: peptide sequence, uncalibrated elution time
+- chromatography_column_type: <unknown>
 
 ## data description:
 This dataset was downloaded from kaggle (https://www.kaggle.com/datasets/kirillpe/proteomics-retention-time-prediction)
