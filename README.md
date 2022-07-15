@@ -5,13 +5,13 @@ prediction of retention time (elution time) of peptides through column chromatog
 
 ## Datasets
 
-- [DLOmix](datasets/DLOmix/README.md)
-- [ProteomeTools](datasets/ProteomeTools/README.md)
-- [Sharma_HeLa](datasets/Sharma_HeLa/README.md)
+- [DLOmix](datasets/DLOmix/)
+- [ProteomeTools](datasets/ProteomeTools/)
+- [Sharma_HeLa](datasets/Sharma_HeLa/)
 
 ## Tutorials
 
-- [DLOmix](datasets/DLOmix/README.md)
+- [DLOmix](datasets/DLOmix/)
 
 
 
