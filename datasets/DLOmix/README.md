@@ -20,7 +20,6 @@
 This dataset is from the DLOmix project, which includes train, validation, and test sets of 
 
 ## comments:
-- See DLOmix web site for more details
 - Tutorial here: https://github.com/wilhelm-lab/dlomix/blob/develop/notebooks/Example_RTModel_Walkthrough_colab.ipynb
 
 
