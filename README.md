@@ -11,7 +11,7 @@ prediction of retention time (elution time) of peptides through column chromatog
 
 ## Tutorials
 
-- [DLOmix](datasets/DLOmix/)
+- [DLOmix](https://github.com/wilhelm-lab/dlomix/blob/develop/notebooks/Example_RTModel_Walkthrough_colab.ipynb)
 
 
 
