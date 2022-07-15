@@ -21,7 +21,7 @@ This dataset is from the DLOmix project, which includes train, validation, and t
 
 ## comments:
 - See DLOmix web site for more details
-- Includes a tutorial. Clone the repo at https://github.com/wilhelm-lab/dlomix and try the example Python code
+- pip install dlomix and follow the tutorial here: https://github.com/wilhelm-lab/dlomix/blob/develop/notebooks/Example_RTModel_Walkthrough_colab.ipynb
 
 
 
