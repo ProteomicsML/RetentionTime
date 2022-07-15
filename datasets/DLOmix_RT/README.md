@@ -1,4 +1,4 @@
-# DLOmix_RT
+# DLOmix
 
 ## attributes:
 - data type: Peptide retention time
